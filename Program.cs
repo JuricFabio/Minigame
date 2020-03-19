@@ -10,6 +10,9 @@ namespace Cry_for_Combat
     {
         static void Main(string[] args)
         {
+            /*
+            Created by Fabio Juric on March 17th, 2020. Last Edit - 03/19/2020
+             */
             int userMaxHP = 10;
             int userHP = 10;
             int userMaxDmg = 3;
